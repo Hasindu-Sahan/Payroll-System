@@ -1,0 +1,31 @@
+Admin login — select the Admin tab on the login page:
+
+Code   Email                Password  
+A001   admin01@tiptop.com   Admin@123
+A002   admin02@tiptop.com   Admin@123
+A003   admin03@tiptop.com   Admin@123
+
+
+Employee login — select the Employee tab:
+
+Code     Email             Password  
+EMP001   e001@tiptop.com   emp@001
+EMP002   e002@tiptop.com   emp@002
+EMP003   e003@tiptop.com   emp@003
+EMP004   e004@tiptop.com   emp@004
+EMP005   e005@tiptop.com   emp@005
+EMP006   e006@tiptop.com   emp@006
+EMP007   e007@tiptop.com   emp@007
+EMP008   e008@tiptop.com   emp@008
+EMP009   e009@tiptop.com   emp@009
+EMP010   e010@tiptop.com   emp@010
+EMP011   e011@tiptop.com   emp@011
+EMP012   e012@tiptop.com   emp@012
+
+
+Punch Login - 
+
+Username    Password
+punch1      pun@001
+punch2      pun@002
+punch3      pun@003
